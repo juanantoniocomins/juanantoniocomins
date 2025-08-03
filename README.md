@@ -38,27 +38,27 @@ A continuación, un índice de mis áreas de interés y los proyectos que estoy 
   </thead>
   <tbody>
     <tr>
-      <td align="left">💻 **<a href="https://github.com/juanantoniocomins/python">Python</a>**</td>
+      <td align="left">💻 <a href="https://github.com/juanantoniocomins/python">Python</a></td>
       <td>Tutoriales y ejemplos para dominar Python, un paso fundamental en mi camino hacia la automatización y la ciberseguridad.</td>
       <td align="center"><code>Python</code></td>
     </tr>
     <tr>
-      <td align="left">🐧 **<a href="https://github.com/juanantoniocomins/linux">Linux</a>**</td>
+      <td align="left">🐧 <a href="https://github.com/juanantoniocomins/linux">Linux</a></td>
       <td>Apuntes y scripts prácticos para la administración de sistemas Linux. Un recurso esencial para técnicos de sistemas.</td>
       <td align="center"><code>Linux</code><br><code>Shell</code><br><code>Bash</code></td>
     </tr>
     <tr>
-      <td align="left">🛡️ **<a href="https://github.com/juanantoniocomins/ciberseguridad">Ciberseguridad</a>**</td>
+      <td align="left">🛡️ <a href="https://github.com/juanantoniocomins/ciberseguridad">Ciberseguridad</a></td>
       <td>Mi laboratorio personal de ciberseguridad. Aquí guardo cursos, herramientas y ejercicios prácticos de hacking y ética.</td>
       <td align="center"><code>Hacking</code><br><code>Seguridad</code><br><code>Ético</code></td>
     </tr>
     <tr>
-      <td align="left">☁️ **<a href="https://github.com/juanantoniocomins/cloud-computing">Cloud-Computing</a>**</td>
+      <td align="left">☁️ <a href="https://github.com/juanantoniocomins/cloud-computing">Cloud-Computing</a></td>
       <td>Exploración y proyectos relacionados con la computación en la nube.</td>
       <td align="center"><code>Cloud</code><br><code>AWS</code><br><code>Azure</code></td>
     </tr>
     <tr>
-      <td align="left">🌐 **<a href="https://github.com/juanantoniocomins/miweb-Ingles-A1">Ingles A1</a>**</td>
+      <td align="left">🌐 <a href="https://github.com/juanantoniocomins/miweb-Ingles-A1">Ingles A1</a></td>
       <td>Un proyecto para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal.</td>
       <td align="center"><code>HTML</code><br><code>CSS</code><br><code>Inglés</code></td>
     </tr>
