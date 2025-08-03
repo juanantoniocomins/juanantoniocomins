@@ -126,26 +126,6 @@
 
 **Herramientas y Tecnologías:** Clarify, Remedy, Thot, Nubia, Comprobadores de red coaxial/HFC/FTTH.
 
-#### **Programador Junior**
-**Generalitat Valenciana** | 🗓️ 08/2007 - 10/2008
-
-- Desarrollo, mantenimiento y actualización de proyectos en entornos web.
-- Creación de páginas web, programación de nuevas funcionalidades, desarrollo de bases de datos.
-
-**Herramientas y Tecnologías:** HTML, CSS, JavaScript, PHP, MySQL.
-
-#### **Técnico en Informática**
-**Asistencial Club 50** | 🗓️ 07/2006 - 08/2007
-
-- Ensamblaje y reparación de equipos informáticos.
-- Formateo e instalación de sistemas operativos.
-- Limpieza y mantenimiento de hardware y software.
-- Creación de manuales y protocolos de buenas prácticas.
-
-**Herramientas y Tecnologías:** Windows (XP, Vista, 7), Software de diagnóstico y reparación, Hardware de PC.
-
----
-
 ### 💻 Habilidades Técnicas y Soft Skills
 
 #### **Sistemas y Redes**
@@ -177,14 +157,13 @@
 
 - **Español:** Nativo
 - **Valenciano:** Nivel Elemental
-- **Inglés:** Nivel A1 (Básico)
+- **Inglés:** Nivel A2 (En Curso)
 
 ---
 
 ### ➕ Información Adicional
 
-- **Disponibilidad:** Inmediata.
+- **Disponibilidad:** 15/30 días.
 - **Permiso de Conducir:** B.
 - **Vehículo:** Propio.
-- **Movilidad Geográfica:** Disponibilidad total.
 - **Roles:** Técnico de Sistemas, Redes, Comunicaciones, Técnico de Ciberseguridad, Administrador de Infraestructura.
