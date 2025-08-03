@@ -134,26 +134,22 @@ Experto en resolución de incidencias críticas, optimización de procesos y lid
 
 #### **Sistemas y Redes**
 - **Administración de Sistemas:** Windows Server, Active Directory, GPO, DNS, DHCP, Exchange.
-- **Redes:** Cisco (CCNA), Fortinet (NSE), TCP/IP, Cableado, Fibra Óptica, VPN, Firewall.
+- **Redes:** Cisco (CCNA), TCP/IP, Cableado, Fibra Óptica, VPN.
 - **Virtualización:** VMware vSphere, VirtualBox.
-- **Sistemas Operativos:** Windows, GNU/Linux (nivel básico).
-
-#### **Ciberseguridad**
-- **Conocimientos en:** Detección de amenazas, análisis de vulnerabilidades, SIEM, SOC, Endpoint Security.
-- **Metodologías:** ITIL 4 (Foundation).
+- **Sistemas Operativos:** Windows, GNU/Linux (nivel intermedio).
 
 #### **Programación**
-- **Lenguajes:** Python (PCEP), HTML, CSS, JavaScript.
+- **Lenguajes:** Python (PCEP), Java, C#, HTML, CSS, JavaScript.
 
 #### **Herramientas de Gestión**
-- Jira, Confluence, Solarwinds, Ivanti, Nagios, Cacti, Zabbix.
+- Jira, Confluence, Solarwinds, Ivanti.
 
 #### **Soft Skills**
 - Liderazgo y Supervisión de Equipos
 - Resolución de Problemas Complejos
 - Comunicación Efectiva
 - Gestión del Cambio
-- Aprendizaje Continuo
+- Aprendizaje y mejora continua (ITIL 4 (Foundation))
 
 ---
 
