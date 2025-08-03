@@ -29,7 +29,7 @@ Este perfil es mi laboratorio personal donde documento mi camino como profesiona
 A continuación, un índice de mis áreas de interés y los proyectos que estoy desarrollando.
 
 | Repositorio | Descripción | Tecnologías |
-| :--- | :--- | :--- |
+| :------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ |
 | 💻 **[Python](https://github.com/juanantoniocomins/python)** | Tutoriales y ejemplos para dominar Python, un paso fundamental en mi camino hacia la automatización y la ciberseguridad. | `Python` |
 | 🐧 **[Linux](https://github.com/juanantoniocomins/linux)** | Apuntes y scripts prácticos para la administración de sistemas Linux. Un recurso esencial para técnicos de sistemas. | `Linux` `Shell` `Bash` |
 | 🛡️ **[Ciberseguridad](https://github.com/juanantoniocomins/ciberseguridad)** | Mi laboratorio personal de ciberseguridad. Aquí guardo cursos, herramientas y ejercicios prácticos de hacking y ética. | `Hacking` `Seguridad` `Ético` |
@@ -38,3 +38,8 @@ A continuación, un índice de mis áreas de interés y los proyectos que estoy 
 
 ---
 
+### 🌱 Mi filosofía: Aprender, crear y compartir
+
+Creo firmemente en la importancia de documentar el proceso de aprendizaje. Cada uno de estos repositorios representa un área donde estoy invirtiendo tiempo y dedicación para crecer profesionalmente. Te invito a explorar mis proyectos y a conectar conmigo.
+
+**¡Gracias por visitar mi perfil!**
