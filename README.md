@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/tu_usuario_de_github?v=4" width="150" alt="Juan Antonio Comins Tormo">
   <h1>Juan Antonio Comins Tormo</h1>
   <h3>Técnico de Sistemas y Redes | Controller & Técnico N2</h3>
   
