@@ -30,11 +30,11 @@ A continuación, un índice de mis áreas de interés y los proyectos que estoy 
 
 | Repositorio | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| 💻 **[python](https://github.com/juanantoniocomins/python)** | Tutoriales y ejemplos para dominar Python, un paso fundamental en mi camino hacia la automatización y la ciberseguridad. | `Python` |
-| 🐧 **[linux](https://github.com/juanantoniocomins/linux)** | Apuntes y scripts prácticos para la administración de sistemas Linux. Un recurso esencial para técnicos de sistemas. | `Linux` `Shell` `Bash` |
-| 🛡️ **[ciberseguridad](https://github.com/juanantoniocomins/ciberseguridad)** | Mi laboratorio personal de ciberseguridad. Aquí guardo cursos, herramientas y ejercicios prácticos de hacking y ética. | `Hacking` `Seguridad` `Ético` |
-| ☁️ **[cloud-computing](https://github.com/juanantoniocomins/cloud-computing)** | Exploración y proyectos relacionados con la computación en la nube. | `Cloud` `AWS` `Azure` |
-| 🌐 **[miweb-Ingles-A1](https://github.com/juanantoniocomins/miweb-Ingles-A1)** | Un proyecto para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal. | `HTML` `CSS` `Inglés` |
+| 💻 **[Python](https://github.com/juanantoniocomins/python)** | Tutoriales y ejemplos para dominar Python, un paso fundamental en mi camino hacia la automatización y la ciberseguridad. | `Python` |
+| 🐧 **[Linux](https://github.com/juanantoniocomins/linux)** | Apuntes y scripts prácticos para la administración de sistemas Linux. Un recurso esencial para técnicos de sistemas. | `Linux` `Shell` `Bash` |
+| 🛡️ **[Ciberseguridad](https://github.com/juanantoniocomins/ciberseguridad)** | Mi laboratorio personal de ciberseguridad. Aquí guardo cursos, herramientas y ejercicios prácticos de hacking y ética. | `Hacking` `Seguridad` `Ético` |
+| ☁️ **[Cloud-Computing](https://github.com/juanantoniocomins/cloud-computing)** | Exploración y proyectos relacionados con la computación en la nube. | `Cloud` `AWS` `Azure` |
+| 🌐 **[Ingles A1](https://github.com/juanantoniocomins/miweb-Ingles-A1)** | Un proyecto para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal. | `HTML` `CSS` `Inglés` |
 
 ---
 
