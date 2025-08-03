@@ -20,7 +20,11 @@
 
 ### 💡 Resumen Profesional
 
-<p align="justify">Profesional TI con **más de 17 años de experiencia** especializado en administración de sistemas, redes corporativas y gestión de infraestructura crítica. Actualmente desempeño el rol de **Controller y Técnico N2** en Fujitsu para la DGTIC de la Generalitat Valenciana, gestionando incidencias complejas y supervisando equipos técnicos. Certificado en **Cisco CCNA**, **Python PCEP**, **Fortinet NSE** e **ITIL 4**. Experto en resolución de incidencias críticas, optimización de procesos y liderazgo de proyectos de infraestructura tecnológica.</p>
+<p align="justify">
+Profesional TI con **más de 17 años de experiencia** especializado en administración de sistemas, redes corporativas y gestión de infraestructura crítica. Actualmente desempeño el rol de <strong>Controller y Técnico N2</strong> en Fujitsu para la DGTIC de la Generalitat Valenciana, gestionando incidencias complejas y supervisando equipos técnicos. Certificado en <strong>Python PCEP</strong>, e <strong>ITIL 4</strong>. 
+<br/>
+Experto en resolución de incidencias críticas, optimización de procesos y liderazgo de proyectos de infraestructura tecnológica.
+</p>
 
 ---
 
