@@ -58,7 +58,7 @@ A continuación, un índice de mis áreas de interés y los proyectos que estoy 
     </tr>
     <tr>
       <td align="left">🌐 <a href="https://github.com/juanantoniocomins/miweb-Ingles-A1">Ingles A1</a></td>
-      <td>Un proyecto para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal.</td>
+      <td>Un proyecto web, para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal.</td>
       <td align="left"><code>Inglés</code></td>
     </tr>
   </tbody>
