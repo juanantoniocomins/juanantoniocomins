@@ -3,7 +3,7 @@
   <h3>Técnico de Sistemas y Redes | Controller & Técnico N2</h3>
   
   <p>
-    📍 Valencia, España | 📞 606 90 53 28 | ✉️ juanancomins@gmail.com
+    📍 Valencia, España | ✉️ juanancomins@gmail.com
   </p>
 
   <p>
@@ -18,63 +18,31 @@
 
 ---
 
-### 💡 Resumen Profesional
+### ¡Bienvenido a mi espacio de aprendizaje y proyectos! 🚀
 
-<p align="justify">
-Profesional TI con **más de 17 años de experiencia** especializado en administración de sistemas, redes corporativas y gestión de infraestructura crítica. Actualmente desempeño el rol de <strong>Controller y Técnico N2</strong> en Fujitsu para la DGTIC de la Generalitat Valenciana, gestionando incidencias complejas y supervisando equipos técnicos. Certificado en <strong>Python PCEP</strong>, e <strong>ITIL 4</strong>. 
-<br/>
-Experto en resolución de incidencias críticas, optimización de procesos y liderazgo de proyectos de infraestructura tecnológica.
-</p>
+Este perfil es mi laboratorio personal donde documento mi camino como profesional de IT, compartiendo conocimientos y explorando nuevas tecnologías. Soy un apasionado del aprendizaje continuo y la programación, y aquí podrás encontrar una colección de mis proyectos, apuntes y tutoriales.
 
 ---
 
-### 🎓 Formación Académica
+### 📂 Repositorios Destacados
 
-- **Técnico Superior en Sistemas de Telecomunicación e Informáticos**
-  - Nota media: 7.67
-  - Realizado en: CIPFP Misericordia (2020-2022)
+A continuación, un índice de mis áreas de interés y los proyectos que estoy desarrollando.
 
-- **Técnico Superior en Administración de Sistemas Informáticos**
-  - Nota media: 8.4
-  - Realizado en: CIPFP Mislata (2007-2009)
-
-- **Técnico en Explotación de Sistemas Informáticos**
-  - Nota media: 8.7
-  - Realizado en: CIPFP Mislata (2005-2007)
-
-> **Nota:** Durante el 2025-2026 realizaré el Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información en CIPFP Mislata.
+| Repositorio | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| 💻 **[python](https://github.com/juanantoniocomins/python)** | Tutoriales y ejemplos para dominar Python, un paso fundamental en mi camino hacia la automatización y la ciberseguridad. | `Python` |
+| 🐧 **[linux](https://github.com/juanantoniocomins/linux)** | Apuntes y scripts prácticos para la administración de sistemas Linux. Un recurso esencial para técnicos de sistemas. | `Linux` `Shell` `Bash` |
+| 🛡️ **[ciberseguridad](https://github.com/juanantoniocomins/ciberseguridad)** | Mi laboratorio personal de ciberseguridad. Aquí guardo cursos, herramientas y ejercicios prácticos de hacking y ética. | `Hacking` `Seguridad` `Ético` |
+| ☁️ **[cloud-computing](https://github.com/juanantoniocomins/cloud-computing)** | Exploración y proyectos relacionados con la computación en la nube. | `Cloud` `AWS` `Azure` |
+| 🌐 **[miweb-Ingles-A1](https://github.com/juanantoniocomins/miweb-Ingles-A1)** | Un proyecto para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal. | `HTML` `CSS` `Inglés` |
 
 ---
 
-### 🏅 Certificaciones Profesionales
+### 🌱 Mi filosofía: Aprender, crear y compartir
 
-- **Fortinet Certified Associate in Cybersecurity** (2025)
-- **Fortinet Certified Fundamentals in Cybersecurity** (2025)
-- **PCEP-30-02 - Certified Entry-Level Python Programmer** (2024)
-- **ITIL 4 Foundation - IT Service Management** (2020)
+Creo firmemente en la importancia de documentar el proceso de aprendizaje. Cada uno de estos repositorios representa un área donde estoy invirtiendo tiempo y dedicación para crecer profesionalmente. Te invito a explorar mis proyectos y a conectar conmigo.
 
----
-
-### 📚 Cursos Adicionales
-
-- **2025** - Ciberseguridad Avanzada en Entornos de las Tecnologías de la Operación (SEPE)
-- **2023** - CISCO - IT Essentials (CIPFP Misericordia)
-- **2023** - CISCO - Preparación CCNA - Enterprise Networking, Security and Automation (CIPFP Misericordia)
-- **2022** - CISCO - Preparación CCNA - Introduction to Networks (CIPFP Misericordia)
-- **2022** - CISCO - Preparación CCNA - Switching, Routing and Wireless Essentials (CIPFP Misericordia)
-- **2019** - Curso Instalación/Configuración Windows Server 2012 (Udemy)
-- **2019** - Curso Administración Office 365 (Udemy)
-- **2018** - Instalar/Configurar Windows 2010 (Udemy)
-- **2017** - Inglés A1 (Servef)
-- **2017** - Domina HTML5 y CSS3 (Udemy)
-- **2016** - Aprende Wordpress (MiriadaX)
-- **2016** - Técnico Básico Prevención Riesgos Laborales (ACEDIS)
-- **2012** - Curso Administración Sharepoint (Servef - IDESE)
-- **2010** - Curso Administración Windows 2008 Server (Servef - IDESE)
-- **2010** - Curso Programación Visual Basic.NET Visual Studio (Servef - IDESE)
-- **2010** - Curso Desarrollo Web en ASP.Net VB.Net (Servef - NANFOR)
-- **2010** - Curso Programación .NET Visual Studio C# (Servef - NANFOR)
-- **2010** - Coneixements De Valenciá – Grau Elemental (Conselleria D’Educació)
+**¡Gracias por visitar mi perfil!**- **2010** - Coneixements De Valenciá – Grau Elemental (Conselleria D’Educació)
 - **2009** - Curso Administración Microsoft SQL Server 2005 (Servef - IDESE)
 - **2009** - Curso Dreamweaver, Photoshop CS2 (Servef - Meca-Rural)
 - **2009** - Curso Gestión de Conflictos al Teléfono (Indra)
