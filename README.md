@@ -39,10 +39,8 @@ Este perfil es mi laboratorio personal donde documento mi camino como profesiona
 
 | Repositorio | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🛠️ [Level2Support2025](https://github.com/juanantoniocomins/level2support) | Portal interno para técnicos de soporte N2. Acceso centralizado a herramientas clave, aplicaciones internas y recursos útiles para una gestión eficiente de incidencias y tareas diarias. con autenticación por `login.html`. 🔒 Acceso privado | `HTML5`, `CSS3`, `JavaScript`, `Firebase` |
+| 🛠️ [Level2Support2025](https://github.com/juanantoniocomins/level2support) | Plataforma interna diseñada para técnicos de soporte de nivel 2. Proporciona acceso centralizado a herramientas clave, aplicaciones internas y recursos técnicos para la gestión eficiente de incidencias y tareas operativas. Acceso mediante autenticación a través de `login.html`. 🔒 Acceso restringido: se requieren credenciales para ingresar. Sitio web: [https://level2support2025.web.app/](https://level2support2025.web.app/) | `HTML5`, `CSS3`, `JavaScript`, `Firebase` |
 
-![Build](https://img.shields.io/badge/status-online-brightgreen)
-![Protected](https://img.shields.io/badge/login-required-critical)
 
 ---
 
