@@ -23,46 +23,28 @@ Este perfil es mi laboratorio personal donde documento mi camino como profesiona
 
 ---
 
-### 📂 Repositorios Destacados
+## 📂 Repositorios Destacados
 
-A continuación, un índice de mis áreas de interés y los proyectos que estoy desarrollando.
+| Repositorio | Descripción | Tecnologías |
+|------------|-------------|-------------|
+| 💻 [Python](https://github.com/juanantoniocomins/python) | Tutoriales y ejemplos para dominar Python, un paso fundamental en mi camino hacia la automatización y la ciberseguridad. | `Python` |
+| 🐧 [Linux](https://github.com/juanantoniocomins/linux) | Apuntes y scripts prácticos para la administración de sistemas Linux. Un recurso esencial para técnicos de sistemas. | `Linux`, `Shell`, `Bash` |
+| 🛡️ [Ciberseguridad](https://github.com/juanantoniocomins/ciberseguridad) | Mi laboratorio personal de ciberseguridad. Aquí guardo cursos, herramientas y ejercicios prácticos de hacking y ética. | `Hacking`, `Seguridad`, `Ético` |
+| ☁️ [Cloud-Computing](https://github.com/juanantoniocomins/cloud-computing) | Exploración y proyectos relacionados con la computación en la nube. | `Cloud`, `AWS`, `Azure` |
+| 🌐 [Inglés A1](https://github.com/juanantoniocomins/miweb-Ingles-A1) | Un proyecto web, para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal. | `Inglés` |
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="20%">Repositorio</th>
-      <th width="60%">Descripción</th>
-      <th width="20%">Tecnologías</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left">💻 <a href="https://github.com/juanantoniocomins/python">Python</a></td>
-      <td>Tutoriales y ejemplos para dominar Python, un paso fundamental en mi camino hacia la automatización y la ciberseguridad.</td>
-      <td align="left"><code>Python</code></td>
-    </tr>
-    <tr>
-      <td align="left">🐧 <a href="https://github.com/juanantoniocomins/linux">Linux</a></td>
-      <td>Apuntes y scripts prácticos para la administración de sistemas Linux. Un recurso esencial para técnicos de sistemas.</td>
-      <td align="left"><code>Linux</code>, <code>Shell</code>, <code>Bash</code></td>
-    </tr>
-    <tr>
-      <td align="left">🛡️ <a href="https://github.com/juanantoniocomins/ciberseguridad">Ciberseguridad</a></td>
-      <td>Mi laboratorio personal de ciberseguridad. Aquí guardo cursos, herramientas y ejercicios prácticos de hacking y ética.</td>
-      <td align="left"><code>Hacking</code>, <code>Seguridad</code>, <code>Ético</code></td>
-    </tr>
-    <tr>
-      <td align="left">☁️ <a href="https://github.com/juanantoniocomins/cloud-computing">Cloud-Computing</a></td>
-      <td>Exploración y proyectos relacionados con la computación en la nube.</td>
-      <td align="left"><code>Cloud</code>, <code>AWS</code>, <code>Azure</code></td>
-    </tr>
-    <tr>
-      <td align="left">🌐 <a href="https://github.com/juanantoniocomins/miweb-Ingles-A1">Ingles A1</a></td>
-      <td>Un proyecto web, para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal.</td>
-      <td align="left"><code>Inglés</code></td>
-    </tr>
-  </tbody>
-</table>
+---
+
+## 🌐 Proyectos Web
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🛠️ `Level2Support2025` | Plataforma interna simulada para soporte técnico de nivel 2, con autenticación por `login.html`. | `HTML5`, `CSS3`, `JavaScript`, `Firebase` |
+
+> 🔒 Acceso privado: [https://level2support2025.web.app](https://level2support2025.web.app)
+
+![Build](https://img.shields.io/badge/status-online-brightgreen)
+![Protected](https://img.shields.io/badge/login-required-critical)
 
 ---
 
@@ -71,3 +53,9 @@ A continuación, un índice de mis áreas de interés y los proyectos que estoy 
 Creo firmemente en la importancia de documentar el proceso de aprendizaje. Cada uno de estos repositorios representa un área donde estoy invirtiendo tiempo y dedicación para crecer profesionalmente. Te invito a explorar mis proyectos y a conectar conmigo.
 
 **¡Gracias por visitar mi perfil!**
+
+---
+
+## 🧾 Licencia
+
+Documentación bajo licencia [MIT](https://choosealicense.com/licenses/mit/).
