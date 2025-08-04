@@ -25,7 +25,7 @@
 
 <h3>¡Bienvenido a mi espacio de aprendizaje y proyectos! 🚀</h3>
 
-<p>
+<p align="justify">
   Este perfil es mi laboratorio personal donde documento mi camino como profesional de IT, compartiendo conocimientos y explorando nuevas tecnologías. Soy un apasionado del aprendizaje continuo y la programación, y aquí podrás encontrar una colección de mis proyectos, apuntes y tutoriales.
 </p>
 
@@ -43,27 +43,27 @@
   </thead>
   <tbody>
     <tr>
-      <td>💻 <a href="https://github.com/juanantoniocomins/python" target="_blank" rel="noopener noreferrer">Python</a></td>
-      <td>Tutoriales y ejemplos para dominar Python, un paso fundamental en mi camino hacia la automatización y la ciberseguridad.</td>
+      <td>💻 <br /><a href="https://github.com/juanantoniocomins/python" target="_blank" rel="noopener noreferrer">Python</a></td>
+      <td align="justify">Tutoriales y ejemplos para dominar Python, un paso fundamental en mi camino hacia la automatización y la ciberseguridad.</td>
       <td><code>Python</code></td>
     </tr>
     <tr>
-      <td>🐧 <a href="https://github.com/juanantoniocomins/linux" target="_blank" rel="noopener noreferrer">Linux</a></td>
-      <td>Apuntes y scripts prácticos para la administración de sistemas Linux. Un recurso esencial para técnicos de sistemas.</td>
+      <td>🐧 <br /><a href="https://github.com/juanantoniocomins/linux" target="_blank" rel="noopener noreferrer">Linux</a></td>
+      <td align="justify">Apuntes y scripts prácticos para la administración de sistemas Linux. Un recurso esencial para técnicos de sistemas.</td>
       <td><code>Linux</code>, <code>Shell</code>, <code>Bash</code></td>
     </tr>
     <tr>
-      <td>🛡️ <a href="https://github.com/juanantoniocomins/ciberseguridad" target="_blank" rel="noopener noreferrer">Ciberseguridad</a></td>
-      <td>Mi laboratorio personal de ciberseguridad. Aquí guardo cursos, herramientas y ejercicios prácticos de hacking y ética.</td>
+      <td>🛡️ <br /><a href="https://github.com/juanantoniocomins/ciberseguridad" target="_blank" rel="noopener noreferrer">Ciberseguridad</a></td>
+      <td align="justify">Mi laboratorio personal de ciberseguridad. Aquí guardo cursos, herramientas y ejercicios prácticos de hacking y ética.</td>
       <td><code>Hacking</code>, <code>Seguridad</code>, <code>Ético</code></td>
     </tr>
     <tr>
-      <td>☁️ <a href="https://github.com/juanantoniocomins/cloud-computing" target="_blank" rel="noopener noreferrer">Cloud-Computing</a></td>
-      <td>Exploración y proyectos relacionados con la computación en la nube.</td>
+      <td>☁️ <br /><a href="https://github.com/juanantoniocomins/cloud-computing" target="_blank" rel="noopener noreferrer">Cloud</a></td>
+      <td align="justify">Exploración y proyectos relacionados con la computación en la nube.</td>
       <td><code>Cloud</code>, <code>AWS</code>, <code>Azure</code></td>
     </tr>
     <tr>
-      <td>🌐 <a href="https://github.com/juanantoniocomins/miweb-Ingles-A1" target="_blank" rel="noopener noreferrer">Inglés A1</a></td>
+      <td>📘 <br /><a href="https://github.com/juanantoniocomins/miweb-Ingles-A1" target="_blank" rel="noopener noreferrer">Inglés A1</a></td>
       <td>Un proyecto web, para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal.</td>
       <td><code>Inglés</code></td>
     </tr>
@@ -84,9 +84,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>🛠️ <a href="https://github.com/juanantoniocomins/level2support" target="_blank" rel="noopener noreferrer">Level2Support2025</a></td>
+      <td>🛠️ <br /><a href="https://github.com/juanantoniocomins/level2support" target="_blank" rel="noopener noreferrer">Level2Support2025</a></td>
       <td align="justify">
-        Plataforma interna diseñada para técnicos de soporte de nivel 2. Proporciona acceso centralizado a herramientas clave, aplicaciones internas y recursos técnicos para la gestión eficiente de incidencias y tareas operativas. Acceso mediante autenticación a través de <code>login.html</code>. 🔒 Acceso restringido: se requieren credenciales para ingresar.<br />
+        Plataforma interna diseñada para técnicos de soporte de nivel 2. Proporciona acceso centralizado a herramientas clave, aplicaciones internas y recursos técnicos para la gestión eficiente de incidencias y tareas operativas. Acceso mediante autenticación a través de <code>login.html</code>. 🔒 Acceso restringido: se requieren credenciales para ingresar.<br /><br />
         <strong>Sitio web:</strong> <a href="https://level2support2025.web.app/" target="_blank" rel="noopener noreferrer">https://level2support2025.web.app/</a>
       </td>
       <td><code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>, <code>Firebase</code></td>
