@@ -87,7 +87,7 @@
       <td>🛠️ <br /><a href="https://github.com/juanantoniocomins/level2support" target="_blank" rel="noopener noreferrer">Level2Support2025</a></td>
       <td align="justify">
         Plataforma interna diseñada para técnicos de soporte de nivel 2. Proporciona acceso centralizado a herramientas clave, aplicaciones internas y recursos técnicos para la gestión eficiente de incidencias y tareas operativas. Acceso mediante autenticación a través de <code>login.html</code>. 🔒 Acceso restringido: se requieren credenciales para ingresar.<br /><br />
-        <strong>Sitio web:</strong> <a href="https://level2support2025.web.app/" target="_blank" rel="noopener noreferrer">https://level2support2025.web.app/</a>
+        <strong>Sitio web:</strong> <a href="https://level2support2025.web.app/" target="_blank" rel="noopener noreferrer" target="_blank">https://level2support2025.web.app/</a>
       </td>
       <td><code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>, <code>Firebase</code></td>
     </tr>
