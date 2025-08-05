@@ -63,7 +63,7 @@
       <td><code>Cloud</code>, <code>AWS</code>, <code>Azure</code></td>
     </tr>
     <tr>
-      <td>📘 <br /><a href="https://github.com/juanantoniocomins/miweb-Ingles-A1" target="_blank" rel="noopener noreferrer">Inglés A1</a></td>
+      <td>📘 <br /><a href="https://github.com/juanantoniocomins/miweb-Ingles-A1" rel="noopener noreferrer">Inglés A1</a></td>
       <td>Un proyecto web, para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal.</td>
       <td><code>Inglés</code></td>
     </tr>
@@ -98,7 +98,7 @@
 
 <h3>🌱 Mi filosofía: Aprender, crear y compartir</h3>
 
-<p>
+<p align="justify">
   Creo firmemente en la importancia de documentar el proceso de aprendizaje. Cada uno de estos repositorios representa un área donde estoy invirtiendo tiempo y dedicación para crecer profesionalmente. Te invito a explorar mis proyectos y a conectar conmigo.
 </p>
 
