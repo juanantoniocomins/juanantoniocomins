@@ -62,11 +62,6 @@
       <td align="justify">Exploración y proyectos relacionados con la computación en la nube.</td>
       <td><code>Cloud</code>, <code>AWS</code>, <code>Azure</code></td>
     </tr>
-    <tr>
-      <td>📘 <br /><a href="https://github.com/juanantoniocomins/miweb-Ingles-A1" rel="noopener noreferrer">Inglés A1</a></td>
-      <td align="justify">Un proyecto web, para practicar y mejorar mi nivel de inglés. Un ejemplo de cómo aplico mis habilidades técnicas para mi desarrollo personal.</td>
-      <td><code>Inglés</code></td>
-    </tr>
   </tbody>
 </table>
 
