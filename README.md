@@ -67,7 +67,7 @@
 
 <hr />
 
-<h2>🌐 Proyectos Web</h2>
+<h2>🌐 Mis Proyectos Web</h2>
 
 <table class="custom-table" aria-label="Proyectos web">
   <thead>
