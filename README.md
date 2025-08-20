@@ -31,7 +31,7 @@
 
 <hr />
 
-<h2>📂 Repositorios Destacados</h2>
+<h2>📂 Repositorios Propios Destacados</h2>
 
 <table class="custom-table" aria-label="Repositorios destacados">
   <thead>
