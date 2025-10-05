@@ -82,7 +82,16 @@
       <td>🛠️ <br /><a href="https://github.com/juanantoniocomins/level2support" target="_blank" rel="noopener noreferrer">Level2Support2025</a></td>
       <td align="justify">
         Plataforma interna diseñada para técnicos de soporte de nivel 2. Proporciona acceso centralizado a herramientas clave, aplicaciones internas y recursos técnicos para la gestión eficiente de incidencias y tareas operativas. Acceso mediante autenticación a través de <code>login.html</code>. <br/>🔒 Acceso restringido: se requieren credenciales para ingresar.<br />
-        <strong>Sitio web:</strong> <a href="https://level2support2025.web.app/" target="_blank" rel="noopener noreferrer" target="_blank">https://level2support2025.web.app/</a>
+        <strong>Sitio web:</strong> <a href="https://level2support2025.web.app/" target="_blank" rel="noopener noreferrer">https://level2support2025.web.app/</a>
+      </td>
+      <td><code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>, <code>Firebase</code></td>
+    </tr>
+    <tr>
+      <td>🇬🇧 <br /><a href="https://github.com/juanantoniocomins/juan_ingles_A2-1" target="_blank" rel="noopener noreferrer">Curso Inglés A2-1</a></td>
+      <td align="justify">
+        Proyecto educativo interactivo desarrollado para el aprendizaje del inglés a nivel A2. Incluye teoría semanal, ejercicios prácticos, exámenes, actividades de vocabulario y componentes multimedia.<br/>
+        📘 Diseño responsive con estructura modular basada en <code>HTML</code>, <code>CSS</code> y <code>JavaScript</code> puro.<br/>
+        🌐 <strong>Sitio web:</strong> <a href="https://juanantoniocomins.github.io/juan_ingles_A2-1" target="_blank" rel="noopener noreferrer">juanantoniocomins.github.io/juan_ingles_A2-1</a>
       </td>
       <td><code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>, <code>Firebase</code></td>
     </tr>
