@@ -87,13 +87,13 @@
       <td><code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>, <code>Firebase</code></td>
     </tr>
     <tr>
-      <td>🇬🇧 <br /><a href="https://github.com/juanantoniocomins/juan_ingles_A2-1" target="_blank" rel="noopener noreferrer">Curso Inglés A2-1</a></td>
+      <td>📘<br /><a href="https://github.com/juanantoniocomins/juan_ingles_A2-1" target="_blank" rel="noopener noreferrer">Curso Inglés A2-1</a></td>
       <td align="justify">
         Proyecto educativo interactivo desarrollado para el aprendizaje del inglés a nivel A2. Incluye teoría semanal, ejercicios prácticos, exámenes, actividades de vocabulario y componentes multimedia.<br/>
         📘 Diseño responsive con estructura modular basada en <code>HTML</code>, <code>CSS</code> y <code>JavaScript</code> puro.<br/>
         🌐 <strong>Sitio web:</strong> <a href="https://juanantoniocomins.github.io/juan_ingles_A2-1" target="_blank" rel="noopener noreferrer">juanantoniocomins.github.io/juan_ingles_A2-1</a>
       </td>
-      <td><code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>, <code>Firebase</code></td>
+      <td><code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>, <code>Github Pages</code></td>
     </tr>
   </tbody>
 </table>
