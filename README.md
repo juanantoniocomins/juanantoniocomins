@@ -52,11 +52,6 @@
       <td align="justify">Apuntes y scripts prácticos para la administración de sistemas Linux. Un recurso esencial para técnicos de sistemas.</td>
       <td><code>Linux</code>, <code>Shell</code>, <code>Bash</code></td>
     </tr>
-    <tr>
-      <td>☁️ <br /><a href="https://github.com/juanantoniocomins/cloud-computing" target="_blank" rel="noopener noreferrer">Cloud</a></td>
-      <td align="justify">Exploración y proyectos relacionados con la computación en la nube.</td>
-      <td><code>Cloud</code>, <code>AWS</code>, <code>Azure</code></td>
-    </tr>
   </tbody>
 </table>
 
