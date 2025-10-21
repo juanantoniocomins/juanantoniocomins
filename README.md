@@ -53,11 +53,6 @@
       <td><code>Linux</code>, <code>Shell</code>, <code>Bash</code></td>
     </tr>
     <tr>
-      <td>🛡️ <br /><a href="https://github.com/juanantoniocomins/ciberseguridad" target="_blank" rel="noopener noreferrer">Ciberseguridad</a></td>
-      <td align="justify">Mi laboratorio personal de ciberseguridad. Aquí guardo cursos, herramientas y ejercicios prácticos de hacking y ética.</td>
-      <td><code>Hacking</code>, <code>Seguridad</code>, <code>Ético</code></td>
-    </tr>
-    <tr>
       <td>☁️ <br /><a href="https://github.com/juanantoniocomins/cloud-computing" target="_blank" rel="noopener noreferrer">Cloud</a></td>
       <td align="justify">Exploración y proyectos relacionados con la computación en la nube.</td>
       <td><code>Cloud</code>, <code>AWS</code>, <code>Azure</code></td>
