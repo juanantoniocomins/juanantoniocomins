@@ -81,6 +81,7 @@
       <td align="justify">
         Proyecto educativo interactivo desarrollado para el aprendizaje del inglés nivel A2. Incluye teoría semanal, ejercicios prácticos, exámenes, actividades de vocabulario y componentes multimedia.<br/><br/>
         🌐 <strong>Sitio web:</strong> <a href="https://juanantoniocomins.github.io/juan_ingles_A2-1" target="_blank" rel="noopener noreferrer">juanantoniocomins.github.io/juan_ingles_A2-1</a>
+        <br/>🚧En contrucción actualmente.
       </td>
       <td><code>HTML5</code>, <code>CSS3</code>, <code>JavaScript</code>, <code>Github Pages</code></td>
     </tr>
