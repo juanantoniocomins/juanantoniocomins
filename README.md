@@ -43,7 +43,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>💻 <br /><a href="https://github.com/juanantoniocomins/python" target="_blank" rel="noopener noreferrer">Python</a></td>
+      <td>💻 <br /><a href="https://github.com/juanantoniocomins/curso_python" target="_blank" rel="noopener noreferrer">Python</a></td>
       <td align="justify">Tutoriales y ejemplos para dominar Python, un paso fundamental en mi camino hacia la automatización y la ciberseguridad.</td>
       <td><code>Python</code></td>
     </tr>
