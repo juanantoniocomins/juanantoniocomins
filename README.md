@@ -57,6 +57,11 @@
       <td align="justify">Recopilación de recursos, buenas prácticas y guías para aprender a usar Git y GitHub.</td>
       <td><code>Git</code>, <code>GitHub</code>, <code>Markdown</code></td>
     </tr>
+    <tr>
+      <td>☁️ <br /><a href="https://github.com/juanantoniocomins/Cloud_computing" target="_blank" rel="noopener noreferrer">Cloud Computing</a></td>
+      <td align="justify">Material de estudio, apuntes y ejercicios relacionados con conceptos clave de computación en la nube, incluyendo AWS, arquitectura y servicios esenciales.</td>
+      <td><code>AWS</code>, <code>Cloud</code>, <code>Markdown</code></td>
+    </tr>    
   </tbody>
 </table>
 
