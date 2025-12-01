@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <td>📚 <br /><a href="https://github.com/juanantoniocomins/GitHub" target="_blank" rel="noopener noreferrer">GitHub</a></td>
-      <td align="justify">Recopilación de recursos, buenas prácticas y guías para aprender a usar Git y GitHub de forma clara, estructurada y práctica.</td>
+      <td align="justify">Recopilación de recursos, buenas prácticas y guías para aprender a usar Git y GitHub.</td>
       <td><code>Git</code>, <code>GitHub</code>, <code>Markdown</code></td>
     </tr>
   </tbody>
