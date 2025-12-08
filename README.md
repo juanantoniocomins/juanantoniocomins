@@ -110,7 +110,7 @@
 ---
 
 <hr />
-aaa
+
 <h3>🌱 Mi filosofía: Aprender, crear y compartir</h3>
 
 <p align="justify">
