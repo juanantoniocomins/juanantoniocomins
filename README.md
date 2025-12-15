@@ -10,7 +10,7 @@
   <p>
     📍 Valencia, España | ✉️ juanancomins@gmail.com
   </p>
-
+aaaaaaaaaaaaaaaaaaaaaaaaaa
   <p>
     <a href="https://www.linkedin.com/in/juan-comins-9222aa212/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
